@@ -5,3 +5,7 @@ export const test = () => {
 export const test2 = () => {
    console.log('chan is super cool')
 }
+
+export const test3 = () => {
+   console.log('chan is super super cool')
+}
