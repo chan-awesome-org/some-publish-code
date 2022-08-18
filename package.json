@@ -1,0 +1,22 @@
+{
+  "name": "@chan-awesome-org/some-publish-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chan-awesome-org/some-publish-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chan-awesome-org/some-publish-code/issues"
+  },
+  "homepage": "https://github.com/chan-awesome-org/some-publish-code#readme"
+}
