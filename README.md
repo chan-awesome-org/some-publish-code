@@ -1,5 +1,7 @@
 # some-publish-code
 
+[Tech Design](https://docs.google.com/document/d/19do_FKVp5XIy5I0hm-BS7FIgCZRnDx5yV_RHT0GNbEs/edit#)
+
 ## To-dos
 This example still need more exploration
 - how to bundle the package (rollupjs can be included to this example)
