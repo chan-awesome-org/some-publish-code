@@ -10,6 +10,6 @@ export const test3 = () => {
    console.log('chan is super super cool')
 }
 
-export const test4 = () => {
+export const test5 = () => {
    console.log('chan is super super cool')
 }
