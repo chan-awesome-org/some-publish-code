@@ -9,7 +9,3 @@ export const test2 = () => {
 export const test3 = () => {
    console.log('chan is super super cool')
 }
-
-export const test4 = () => {
-   console.log('chan is super super cool')
-}
