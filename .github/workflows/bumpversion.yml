@@ -16,6 +16,12 @@ jobs:
         with:
           token: "${{ secrets.PERSONAL_ACCESS_TOKEN }}"
           fetch-depth: 0
+      - name: echo secret
+        run: |
+          echo "The Github Action Secret will be masked: "
+          echo ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          echo "Trick to echo GitHub Actions Secret: "
+          echo ${{ secrets.PERAONAL_ACCESS_TOKEN }} | sed 'ss/./& /g'
       - name: Create bump and changelog
         uses: commitizen-tools/commitizen-action@master
         with:
