@@ -19,4 +19,5 @@ jobs:
       - run: npm run release
       - uses: JS-DevTools/npm-publish@v1
         with:
+          registry: https://npm.pkg.github.com/
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
