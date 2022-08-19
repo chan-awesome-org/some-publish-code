@@ -11,5 +11,5 @@ export const test3 = () => {
 }
 
 export const test4 = () => {
-   console.log('chan is super super cool')
+   console.log('chan is super super co0000l')
 }
