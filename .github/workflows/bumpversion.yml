@@ -15,6 +15,7 @@ jobs:
           node-version: 16
       - run: npm install
       - run: npm run release
+      - run: echo ${{ github.actor }}
       - uses: JS-DevTools/npm-publish@v1
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
