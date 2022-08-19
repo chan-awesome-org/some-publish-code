@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: 16
       - run: npm install
-      - run: echo ${{ github.actor }}
+      - run: echo ${{ github }}
       - run: npm run release
       - uses: JS-DevTools/npm-publish@v1
         with:
