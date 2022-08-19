@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/chan-awesome-org/some-publish-code/compare/v1.4.0...v1.4.1) (2022-08-19)
+
+
+### Bug Fixes
+
+* error ([f27cb06](https://github.com/chan-awesome-org/some-publish-code/commit/f27cb069ff3dac3975e398ed76b6089747e87c5d))
+
 ## 1.4.0 (2022-08-19)
 
 
