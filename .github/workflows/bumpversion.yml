@@ -17,4 +17,7 @@ jobs:
           token: "${{ secrets.PERSONAL_ACCESS_TOKEN }}"
           fetch-depth: 0
       - name: Print Version
-        run: echo "Bumped to version ${{ steps.cz.outputs.version }}"
+        run:
+          npm ci
+          npm run release
+          npm publish
