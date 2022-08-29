@@ -1,0 +1,29 @@
+name: Testing this new flow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm ci
+      - run: git config --global user.email "chan.leung@submittable.com"
+      - run: git config --global user.name "${{github.actor}}"
+      - run: npm run release
+      - run: npm publish
+      - name: "Build Changelog"
+        id: build_changelog
+        uses: mikepenz/release-changelog-builder-action@{latest-release}
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - uses: JS-DevTools/npm-publish@v1
+        with:
+          registry: https://npm.pkg.github.com/
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
