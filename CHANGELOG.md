@@ -1,3 +1,9 @@
+## 2.2.0 (2022-08-29)
+
+### Feat
+
+- **function name change**: change the message for function 6
+
 ## 2.1.0 (2022-08-29)
 
 ### Feat
