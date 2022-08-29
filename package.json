@@ -1,6 +1,6 @@
 {
   "name": "@chan-awesome-org/some-publish-code",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "src/index.js",
   "scripts": {
