@@ -15,5 +15,5 @@ export const test4 = () => {
 }
 
 export const test6 = () => {
-   console.log('chan is super super co00000000000l')
+   console.log('chan is supersdfa sdfas super co00000000000l')
 }
