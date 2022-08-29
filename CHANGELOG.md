@@ -1,3 +1,14 @@
+## 2.0.0 (2022-08-29)
+
+### BREAKING CHANGE
+
+- test5 will no longer be available, please make the proper adjustment
+
+### Feat
+
+- **new function**: rename from test 5 => test 6
+- something new
+
 ## 1.1.0 (2022-08-29)
 
 ### Feat
