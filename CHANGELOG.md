@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 4.0.0 (2022-08-29)
+
 ## [3.1.0](https://github.com/chan-awesome-org/some-publish-code/compare/v3.0.1...v3.1.0) (2022-08-29)
 
 
