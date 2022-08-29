@@ -17,9 +17,11 @@ jobs:
       - run: git config --global user.email "chan.leung@submittable.com"
       - run: git config --global user.name "${{github.actor}}"
       - run: npm run release
-      - name: "Build Changelog"
-        id: build_changelog
-        uses: mikepenz/release-changelog-builder-action
+      - name: Release Notes
+        uses: softprops/action-gh-release@v1
+        with:
+          body_path: "CHANGELOG.md"
+          tag_name: ${{ env.REVISION }}
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - uses: JS-DevTools/npm-publish@v1
