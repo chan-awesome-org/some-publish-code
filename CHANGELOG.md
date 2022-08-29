@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [2.0.0](https://github.com/chan-awesome-org/some-publish-code/compare/v1.0.0...v2.0.0) (2022-08-29)
+## [3.0.0](https://github.com/chan-awesome-org/some-publish-code/compare/v1.0.0...v3.0.0) (2022-08-29)
 
 
 ### ⚠ BREAKING CHANGES
@@ -28,6 +28,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 * new script ([b0c1ab4](https://github.com/chan-awesome-org/some-publish-code/commit/b0c1ab46209be2b0b5007e7d03251d106736ff84))
 * new script ([3ead710](https://github.com/chan-awesome-org/some-publish-code/commit/3ead7107896dd3f1190c7ec9fb5be3ded25e5dbb))
+* **release:** 2.0.0 ([3abebf5](https://github.com/chan-awesome-org/some-publish-code/commit/3abebf5ade5bf6fc17a45ae4ec8f03e34a79ffb3))
 * remove changelog.md ([3de3992](https://github.com/chan-awesome-org/some-publish-code/commit/3de399288cac85e91f13f955f68566f4ef9e0463))
 * some script ([8f1aecb](https://github.com/chan-awesome-org/some-publish-code/commit/8f1aecb1851c78b0ec7b05662f2337be240c1d5a))
 * test ([fb2e55a](https://github.com/chan-awesome-org/some-publish-code/commit/fb2e55a02f7bb9fdd2c92f9c1a25e48f533bd79c))
@@ -35,74 +36,3 @@ All notable changes to this project will be documented in this file. See [standa
 * testing this ([bd2a50d](https://github.com/chan-awesome-org/some-publish-code/commit/bd2a50dbd49953ce7731e8f53685a4d5935ddf2a))
 * update ([1c8bbcf](https://github.com/chan-awesome-org/some-publish-code/commit/1c8bbcfdd326d0ab4f4e614bdeb873498c9573d5))
 * update bump version ([d92e74f](https://github.com/chan-awesome-org/some-publish-code/commit/d92e74fc2f4dcb0b123c4c04fe12c80606471dbb))
-
-## 2.3.0 (2022-08-29)
-
-### Feat
-
-- test
-
-## 2.2.0 (2022-08-29)
-
-### Feat
-
-- **function name change**: change the message for function 6
-
-## 2.1.0 (2022-08-29)
-
-### Feat
-
-- test
-
-## 2.0.0 (2022-08-29)
-
-### BREAKING CHANGE
-
-- test5 will no longer be available, please make the proper adjustment
-
-### Feat
-
-- **new function**: rename from test 5 => test 6
-- something new
-
-## 1.1.0 (2022-08-29)
-
-### Feat
-
-- new message
-
-### Refactor
-
-- new message
-
-## v1.0.0 (2022-08-19)
-
-### Feat
-
-- updating with registry page
-- test
-- **asd**: fasdf
-- **test**: something cool
-- **test**: asfasdf asdfsadf
-- **component**: updating index to test for cversion control
-- new ci
-- test
-- test
-- comething
-- **ci pipeline**: update with echo
-- new function
-- new function
-- a new function
-- something cool
-
-### Fix
-
-- error
-
-### Refactor
-
-- remove an import function
-
-### Perf
-
-- add dep
