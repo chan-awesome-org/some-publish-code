@@ -17,7 +17,3 @@ export const test4 = () => {
 export const test6 = () => {
    console.log('chan is supersdfa sdfas asdf sadf super co00000000000l')
 }
-
-export const test7 = () => {
-   console.log('chan is supersdfa sdfas asdf sadf super co00000000000l')
-}
