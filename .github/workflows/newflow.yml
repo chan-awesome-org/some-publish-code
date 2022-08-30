@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  publish:
+  release:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -17,6 +17,10 @@ jobs:
       - run: git config --global user.email "chan.leung@submittable.com"
       - run: git config --global user.name "${{github.actor}}"
       - run: npm run release
+  bump-and-publish:
+    needs: release
+    runs-on: ubuntu-latest
+    steps:
       - id: cz
         name: Create bump and changelog
         uses: commitizen-tools/commitizen-action@master
