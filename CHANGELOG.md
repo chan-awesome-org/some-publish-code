@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/chan-awesome-org/some-publish-code/compare/v1.0.0...v2.0.0) (2022-08-30)
+
+
+### Features
+
+* **index functions:** remove the test6 function that was exposed in index ifle ([35b4859](https://github.com/chan-awesome-org/some-publish-code/commit/35b48592f1504aee1e8c465207789f516cb9e767))
+
+
+### BREAKING CHANGES
+
+* **index functions:** Do not use test6 function but use test 5 instead
+
 # 1.0.0 (2022-08-30)
 
 
