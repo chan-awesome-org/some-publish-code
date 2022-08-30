@@ -2,6 +2,17 @@
 
 [Tech Design](https://docs.google.com/document/d/19do_FKVp5XIy5I0hm-BS7FIgCZRnDx5yV_RHT0GNbEs/edit#)
 
+
+## How to test the semantic release
+- [ ] pull down this repo and make a local branch
+- [ ] make some update and properly add pre-fix to your commit or when you `git add .` run `npm run commit`. It will start the process of commitizen questionaire
+- [ ] once your PR is merged into `main` it would kick start the CI to do it's thing
+
+- analysis your commits and determine the version bump (major.minor.patch)
+- create a change log and update this repo under `release`
+- publish this repo into github registry
+- update package.json version to match your registry + release notes
+
 ## To-dos
 This example still need more exploration
 - how to bundle the package (rollupjs can be included to this example)
