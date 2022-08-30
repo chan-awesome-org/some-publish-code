@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.0.0...v2.1.0) (2022-08-30)
+
+
+### Features
+
+* new function exposed ([7c39d29](https://github.com/chan-awesome-org/some-publish-code/commit/7c39d29ec9388273666c345ccc85a0cae7aa00c6))
+
 # [2.0.0](https://github.com/chan-awesome-org/some-publish-code/compare/v1.0.0...v2.0.0) (2022-08-30)
 
 
