@@ -17,7 +17,3 @@ export const test4 = () => {
 export const test5 = () => {
    console.log('chan is super super co00000000000l')
 }
-
-export const test6 = () => {
-   console.log('chan is super super co00000000000l')
-}
