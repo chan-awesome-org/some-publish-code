@@ -22,7 +22,7 @@ jobs:
           registry: https://npm.pkg.github.com/
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
   bump-and-update-release-note:
-    needs: release
+    needs: release-and-publish
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
