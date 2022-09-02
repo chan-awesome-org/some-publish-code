@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.1.0...v2.2.0) (2022-09-02)
+
+
+### Features
+
+* **index file updated:** adding a new function to this repo ([16a121d](https://github.com/chan-awesome-org/some-publish-code/commit/16a121dd537d4ac095cb9501bac752b0305b01cd))
+
 # [2.1.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.0.0...v2.1.0) (2022-08-30)
 
 
