@@ -1,32 +1,14 @@
+import Avatar from './Avatar/Avatar'
+
 export const test = () => {
    console.log('hello world')
 }
 
 export const test2 = () => {
-   console.log('chan is super cool')
+   const world = 'world'
+   return `hello ${world}`
 }
 
-export const test3 = () => {
-   console.log('chan is super super cool')
-}
+export const test3 = () => 4
 
-export const test4 = () => {
-   console.log('chan is super super co00000000000l')
-}
-
-export const test5 = () => {
-   console.log('chan is super super co00000000000l')
-}
-
-export const test6 = () => {
-   console.log('chan is super super co000000000000000000000l')
-}
-
-
-export const test7 = () => {
-   console.log('chan is super super co0000 asasd fsad fa00000000000000000l')
-}
-
-export const test8 = () => {
-   console.log('chan is super super co0000 asasd fsad fa00000000000000000l')
-}
+export default Avatar
