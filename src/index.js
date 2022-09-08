@@ -1,7 +1,7 @@
 import Avatar from './Avatar/Avatar'
 
 export const test = () => {
-   console.log('hello world')
+   console.log('hello 21312 213 world')
 }
 
 export const test2 = () => {
