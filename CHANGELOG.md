@@ -1,3 +1,10 @@
+## [2.4.2](https://github.com/chan-awesome-org/some-publish-code/compare/v2.4.1...v2.4.2) (2022-09-09)
+
+
+### Bug Fixes
+
+* make changes to the release setup ([661372b](https://github.com/chan-awesome-org/some-publish-code/commit/661372b712dbc0a2c30dafee4533a5d3b24e8be5))
+
 ## [2.4.1](https://github.com/chan-awesome-org/some-publish-code/compare/v2.4.0...v2.4.1) (2022-09-08)
 
 
