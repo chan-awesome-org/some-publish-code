@@ -1,5 +1,4 @@
 {
-    "pkgRoot": "dist",
     "branches": ["main"],
     "plugins": [
         "@semantic-release/commit-analyzer",
@@ -11,6 +10,7 @@
     ],
     "prepare": [
           "@semantic-release/changelog",
+          "@semantic-release/npm",
           {
                 "path": "@semantic-release/git",
                 "assets": [
