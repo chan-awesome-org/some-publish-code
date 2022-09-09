@@ -1,0 +1,16 @@
+#tests
+test
+
+
+#editor settings
+.idea
+.editorconfig
+
+.github*
+.npmrc
+.releaserc
+babel.config.js
+CHANGELOG.md
+package-lock.json
+rollup.config.js
+src*
