@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.4.2...v2.5.0) (2022-09-09)
+
+
+### Features
+
+* only expose the dist, readMe and package.json ([59df4ab](https://github.com/chan-awesome-org/some-publish-code/commit/59df4ab1a605e2c766dbe21c2ffab43b38c60758))
+
 ## [2.4.2](https://github.com/chan-awesome-org/some-publish-code/compare/v2.4.1...v2.4.2) (2022-09-09)
 
 
