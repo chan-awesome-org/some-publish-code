@@ -23,7 +23,7 @@
     ],
     "publish": [
         {
-            "path": "semantic-release/exec",
+            "path": "@semantic-release/exec",
             "publishCmd": "npx run pre-release:setup"
         },
         {
