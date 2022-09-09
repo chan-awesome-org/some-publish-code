@@ -7,6 +7,7 @@
   "scripts": {
     "commit": "git-cz",
     "build": "rollup -c",
+    "pre-release:setup": "mkdir -p bundle & cp -r dist/ bundle/dist & cp -r package.json bundle & cp -r README.md bundle",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "postcss": {

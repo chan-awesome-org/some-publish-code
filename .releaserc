@@ -6,13 +6,14 @@
         "@semantic-release/changelog",
         "@semantic-release/github",
         "@semantic-release/npm",
-        ["@semantic-release/git", {
-            "assets": ["dist/**/*.{js,css}", "README.md", "package.json"]
-        }]
+        "@semantic-release/git"
     ],
     "prepare": [
           "@semantic-release/changelog",
-          "@semantic-release/npm",
+          {
+                "path": "@semantic-release/npm",
+                "pkgRoot": "bundle"
+          },
           {
                 "path": "@semantic-release/git",
                 "assets": [
