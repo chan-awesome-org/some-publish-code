@@ -6,7 +6,9 @@
         "@semantic-release/changelog",
         "@semantic-release/github",
         "@semantic-release/npm",
-        "@semantic-release/git"
+        ["@semantic-release/git", {
+            "assets": ["dist/**/*.{js,css}", "README.md", "package.json"]
+        }]
     ],
     "prepare": [
           "@semantic-release/changelog",
