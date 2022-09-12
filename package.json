@@ -1,6 +1,6 @@
 {
   "name": "@chan-awesome-org/some-publish-code",
-  "version": "2.5.0",
+  "version": "2.7.0",
   "description": "",
   "main": "dist/esm/index.js",
   "module": "dist/esm/index.js",

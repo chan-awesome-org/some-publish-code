@@ -1,3 +1,23 @@
+# [2.7.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.6.0...v2.7.0) (2022-09-12)
+
+
+### Bug Fixes
+
+* missing dep ([df5207e](https://github.com/chan-awesome-org/some-publish-code/commit/df5207e99d4d0e9bb6a7c5d7cc609a6122d1de5d))
+* missing directory ([a9e7f1d](https://github.com/chan-awesome-org/some-publish-code/commit/a9e7f1d04936ab1c1079a7e143f96294044e26d4))
+
+
+### Features
+
+* new ([90dc808](https://github.com/chan-awesome-org/some-publish-code/commit/90dc808e860d7565f1bd9376fdee1026daeae0d3))
+* new setup ([991f60c](https://github.com/chan-awesome-org/some-publish-code/commit/991f60c1fc0b3f6b62e5ddfa17bec4c813b8a39d))
+* new shiiiiiii ([80bd488](https://github.com/chan-awesome-org/some-publish-code/commit/80bd4884e8e6279365cd846e2c11ac9b9bb0d0b4))
+
+
+### Performance Improvements
+
+* add new dev dependency ([787b155](https://github.com/chan-awesome-org/some-publish-code/commit/787b155116eb4413fdea70f9eadec867006fe042))
+
 # [2.6.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.5.0...v2.6.0) (2022-09-09)
 
 
