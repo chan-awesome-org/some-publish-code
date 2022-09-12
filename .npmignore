@@ -4,3 +4,5 @@ package-lock.json
 babel.config.js
 .releaserc
 .github/
+
+.idea/*
