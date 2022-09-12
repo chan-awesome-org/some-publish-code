@@ -1,4 +1,4 @@
-/src
+src/
 rollup.config.js
 package-lock.json
 babel.config.js
