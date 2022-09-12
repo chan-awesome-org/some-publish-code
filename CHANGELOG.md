@@ -1,3 +1,15 @@
+# [2.11.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.10.0...v2.11.0) (2022-09-12)
+
+
+### Bug Fixes
+
+* change setting ([1203ddd](https://github.com/chan-awesome-org/some-publish-code/commit/1203ddd902ea56c3f5f0f9921479f7cc24441721))
+
+
+### Features
+
+* update ([892c73c](https://github.com/chan-awesome-org/some-publish-code/commit/892c73c07c6a4aab00ca313a3ea84b18ba187478))
+
 # [2.10.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.9.0...v2.10.0) (2022-09-12)
 
 
