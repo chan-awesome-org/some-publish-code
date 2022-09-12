@@ -31,3 +31,10 @@ npm-debug.log*
 !.vscode/settings.json
 
 .idea/*
+
+/src
+rollup.config.js
+package-lock.json
+babel.config.js
+.releaserc
+.github/

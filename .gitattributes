@@ -1,8 +1,0 @@
-/src
-/node_modules
-rollup.config.js
-package-lock.json
-babel.config.js
-.releaserc
-.npmrc
-.github
