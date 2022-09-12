@@ -1,3 +1,10 @@
+# [2.12.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.11.0...v2.12.0) (2022-09-12)
+
+
+### Features
+
+* new ([e2dc21d](https://github.com/chan-awesome-org/some-publish-code/commit/e2dc21db3991ae48cbbb4f19f6076483a6f50383))
+
 # [2.11.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.10.0...v2.11.0) (2022-09-12)
 
 
