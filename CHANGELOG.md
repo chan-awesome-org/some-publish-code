@@ -1,3 +1,10 @@
+# [2.8.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.7.0...v2.8.0) (2022-09-12)
+
+
+### Features
+
+* update ([7d72dcb](https://github.com/chan-awesome-org/some-publish-code/commit/7d72dcbd5cd6886a9da62e348a1e77d29462f42e))
+
 # [2.7.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.6.0...v2.7.0) (2022-09-12)
 
 
