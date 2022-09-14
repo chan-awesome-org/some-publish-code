@@ -26,4 +26,8 @@ jobs:
           NPM_TOKEN: ${{ secrets.TOKEN_2 }}
           NODE_AUTH_TOKEN: ${{ secrets.TOKEN_2 }}
           HUSKY: 0
-        run: npx semantic-release
+          CI: true
+        run: |
+          export HUSKY=0
+          export CI=true
+          npx semantic-release
