@@ -1,3 +1,11 @@
+# [2.13.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.12.0...v2.13.0) (2022-09-14)
+
+
+### Features
+
+* new message ([7303262](https://github.com/chan-awesome-org/some-publish-code/commit/7303262a882863f248e92f26ad9990312788b6ae))
+* test ([cb50cad](https://github.com/chan-awesome-org/some-publish-code/commit/cb50cadf413e9e57ad41a075bc38ba2932f66fbf))
+
 # [2.12.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.11.0...v2.12.0) (2022-09-12)
 
 
