@@ -5,7 +5,7 @@ export const test = () => {
 }
 
 export const test2 = () => {
-   const world = 'world my best friend asdf asdfas'
+   const world = 'world my best friend asdf asdfas asdf asdf asdf'
    return `hello ${world}`
 }
 
