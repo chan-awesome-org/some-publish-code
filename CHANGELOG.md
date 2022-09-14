@@ -1,3 +1,12 @@
+# [2.20.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.19.0...v2.20.0) (2022-09-14)
+
+
+### Features
+
+* aasdf asfasdf asdf ([dd6ff3f](https://github.com/chan-awesome-org/some-publish-code/commit/dd6ff3fa4e655f2c0e7c077ed56f7429f1d791aa))
+* **asdf asdfas:** asdf asdfsda  fasdf asdf ([fa90e62](https://github.com/chan-awesome-org/some-publish-code/commit/fa90e627e741f8eead98481e493788bf8d079144))
+* **asdf:** asd asdfas dfads as ([fd46baa](https://github.com/chan-awesome-org/some-publish-code/commit/fd46baafae78e4bf0c2603f6730e119325a24da5))
+
 # [2.19.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.18.0...v2.19.0) (2022-09-14)
 
 
