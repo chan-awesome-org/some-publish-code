@@ -25,6 +25,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN_2 }}
           NPM_TOKEN: ${{ secrets.TOKEN_2 }}
           NODE_AUTH_TOKEN: ${{ secrets.TOKEN_2 }}
-        run: |
-          export HUSKY=0
-          npm run semantic-release
+          HUSKY: 0
+        run: npx semantic-release
