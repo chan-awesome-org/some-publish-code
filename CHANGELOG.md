@@ -1,3 +1,11 @@
+# [2.22.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.21.0...v2.22.0) (2022-09-14)
+
+
+### Features
+
+* **asd f:** asdf a ([8da1a63](https://github.com/chan-awesome-org/some-publish-code/commit/8da1a6347a262bc16fd1e4100add12e50fa0ad93))
+* **asf:** as df ([cde6303](https://github.com/chan-awesome-org/some-publish-code/commit/cde6303afa14b25a6c6e13822d37d1bf5adceb0b))
+
 # [2.21.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.20.0...v2.21.0) (2022-09-14)
 
 
