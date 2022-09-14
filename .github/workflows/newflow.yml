@@ -17,7 +17,9 @@ jobs:
         with:
           node-version: 16
       - name: Install dependencies
-        run: HUSKY=0 npm ci
+        run: |
+        export HUSKY=0
+        npm ci
       - name: Build
         run: npm run build
       - name: Semantic release
