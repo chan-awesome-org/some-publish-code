@@ -1,3 +1,10 @@
+# [2.15.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.14.0...v2.15.0) (2022-09-14)
+
+
+### Features
+
+* test new feature ([9354ca2](https://github.com/chan-awesome-org/some-publish-code/commit/9354ca27fa3c8d91200bfd609df25685715b37f2))
+
 # [2.14.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.13.0...v2.14.0) (2022-09-14)
 
 
