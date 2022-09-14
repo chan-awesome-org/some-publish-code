@@ -1,3 +1,10 @@
+# [2.14.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.13.0...v2.14.0) (2022-09-14)
+
+
+### Features
+
+* new message ([c5627c4](https://github.com/chan-awesome-org/some-publish-code/commit/c5627c444d4d2225f0217c2fbee2a2772eaa91c3))
+
 # [2.13.0](https://github.com/chan-awesome-org/some-publish-code/compare/v2.12.0...v2.13.0) (2022-09-14)
 
 
