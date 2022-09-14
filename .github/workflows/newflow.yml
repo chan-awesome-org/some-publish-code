@@ -28,6 +28,6 @@ jobs:
           HUSKY: 0
           CI: true
         run: |
-          export HUSKY=0
-          export CI=true
+          HUSKY=0
+          CI=true
           npx semantic-release
