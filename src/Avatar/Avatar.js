@@ -1,3 +1,5 @@
+import { Avatar as MaterialUIAvatar } from '@mui/material'
+import classNames from 'classnames'
 import PropTypes from 'prop-types'
 import styles from './avatar.module.less'
 
@@ -7,13 +9,19 @@ export const avatarColors = Object.freeze({
   secondary: 'secondary',
 })
 
-const Avatar = ({ firstName, lastName}) => {
+const Avatar = ({ firstName, lastName, color, className }) => {
   return (
-    <div
-      className={styles.primary}
+    <MaterialUIAvatar
+      className={classNames(
+        {
+          [styles.primary]: color === avatarColors.primary,
+          [styles.secondary]: color === avatarColors.secondary,
+        },
+        className
+      )}
     >
       {firstName && lastName ? `${firstName[0]}${lastName[0]}` : null}
-    </div>
+    </MaterialUIAvatar>
   )
 }
 
